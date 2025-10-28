@@ -1,0 +1,10 @@
+{
+  "courses": [
+    {"id": 1, "title": "Frontend con React", "progress": 75},
+    {"id": 2, "title": "Backend con Node.js", "progress": 60}
+  ],
+  "mentors": [
+    {"id": 1, "name": "Ana Torres", "role": "Frontend Developer"},
+    {"id": 2, "name": "Carlos Díaz", "role": "Full Stack Developer"}
+  ]
+}
